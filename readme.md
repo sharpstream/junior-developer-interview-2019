@@ -2,8 +2,11 @@
 
 ## Setup
 
-The task is designed to need very little setup. Provided you have a version of PHP on your machine and git installed, you should be able
-to complete the task. If you have any issues, please let us know as soon as possible.
+The task is designed to need very little setup. Provided you have a version of PHP on your machine and git installed, you should be able to complete the task. We would recommend getting hold of a decent IDE, for this task we'd recommend [Sublime Text](https://www.sublimetext.com/) as it's free and easy to get started with. 
+
+If you have any issues, please let us know as soon as possible.
+
+
 
 To begin, clone this repository and start.
 
