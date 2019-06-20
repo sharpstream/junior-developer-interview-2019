@@ -32,7 +32,7 @@ In the `task-approach.md` file, describe how you would retrieve the following pi
 
 ### Find the answers
 
-Now using php in the index.php file load the data from the `stations.json` file and find calculate the answers to each
+Now using php in the index.php file load the data from `stations.json` and calculate the answers to each
 of the above.
 
 By running `php index.php` in the command line there should be an output that looks like this : 
